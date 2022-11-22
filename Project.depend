@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1668906797 source:d:\desenvolvimento\projetos\faculdade\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1668906765 d:\desenvolvimento\projetos\faculdade\project\biblioteca.h
+
+1668906497 source:d:\desenvolvimento\projetos\faculdade\project\biblioteca.c
+	<stdio.h>
+	<string.h>
+	"biblioteca.h"
+	<stdlib.h>
+
