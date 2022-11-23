@@ -4,6 +4,8 @@
 	<stdlib.h>
 	"biblioteca.h"
 
+1668906797 a.h"
+
 1668906765 d:\desenvolvimento\projetos\faculdade\project\biblioteca.h
 
 1668906497 source:d:\desenvolvimento\projetos\faculdade\project\biblioteca.c
@@ -11,4 +13,36 @@
 	<string.h>
 	"biblioteca.h"
 	<stdlib.h>
+
+1668906497 
+
+1669169752 source:/home/Waldfe/Downloads/Projeto-Faculdade-C-main/biblioteca.c
+	<stdio.h>
+	<string.h>
+	"biblioteca.h"
+	<stdlib.h>
+
+1669169752 /home/Waldfe/Downloads/Projeto-Faculdade-C-main/biblioteca.h
+	<stdio.h>
+	<stdlib.h>
+
+1669170742 source:/home/Waldfe/Downloads/Projeto-Faculdade-C-main/main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1669225576 source:c:\users\aluno\documents\codeblocks\emanuel\projeto-faculdade-c-main\biblioteca.c
+	<stdio.h>
+	<string.h>
+	"biblioteca.h"
+	<stdlib.h>
+
+1669224471 c:\users\aluno\documents\codeblocks\emanuel\projeto-faculdade-c-main\biblioteca.h
+	<stdio.h>
+	<stdlib.h>
+
+1669226033 source:c:\users\aluno\documents\codeblocks\emanuel\projeto-faculdade-c-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
 
